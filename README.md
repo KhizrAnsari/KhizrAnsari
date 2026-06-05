@@ -33,7 +33,7 @@ A passionate Computer Science and Engineering student from **Sri Aurobindo Insti
 ## 🤝 Connect with Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+* 📧 **Email:** [khizransari940@gmail.com(mailto:your.email@example.com)
 
 ---
 
