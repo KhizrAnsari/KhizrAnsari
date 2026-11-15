@@ -11,7 +11,8 @@
 ### 💫 About Me:
 * 🎓 **Computer Science and Engineering (CSE)** student at Sri Aurobindo Institute of Technology, RGPV University.
 * 💻 Passionate about writing clean code, solving **Data Structures & Algorithms** problems in Java, and building practical applications.
-* 🛠️ Experienced with **C, C++, Python, Java**, and **basic foundational knowledge of Frontend Web Development (HTML/CSS/JS)**.
+* 🛠️ Experienced with **C, C++, Python, Java**
+*     Basic foundational knowledge of Frontend Web Development (HTML/CSS/JS)**.
 * ⚡ Active participant in coding streaks, tech challenge badges, and building real-world projects like *Finquora Ledger*.
 
 ---
